@@ -1,0 +1,7 @@
+game_save.json
+__pycache__/
+*.pyc
+build/
+dist/
+.claude/
+CLAUDE.md
